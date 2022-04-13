@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/dal/RepositoryFactory.java</file>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/model/Movie.java</file>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/dal/Repository.java</file>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/model/User.java</file>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/parsers/rss/MovieParser.java</file>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/Login.java</file>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/dal/sql/DataSourceSingleton.java</file>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/AdminMoviesPanel.java</file>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/model/Genre.java</file>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/model/MovieArchive.java</file>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/model/GenreTransferable.java</file>
+            <file>file:/C:/Users/petra/Desktop/Projekt%20-%20Java01/Project/src/hr/algebra/dal/sql/SqlRepository.java</file>
+        </group>
+    </open-files>
+</project-private>
